@@ -3,7 +3,7 @@
 ## Initial Setup ##
 
 We start with this
-
+dfdfdf
 ![network-1](http://github.com/eadz/Git-Flow-Example/raw/develop/images/network-1.png "Initial Commit Network Image")
 
 	➜  Git-Flow-Example git:(master) git flow init
